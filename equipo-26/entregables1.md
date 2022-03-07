@@ -17,4 +17,4 @@
 - María Celeste Montivero: investigación sobre frutas y corrección de textos.
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://www.youtube.com/watch?v=5xs8w72czpg
 
-No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable: https://www.canva.com/design/DAE6PYyYZKA/JN2n8hKmEoeFqcHn9oUItQ/view?utm_content=DAE6PYyYZKA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable: Diapositiva 7: https://www.canva.com/design/DAE6PYyYZKA/JN2n8hKmEoeFqcHn9oUItQ/view?utm_content=DAE6PYyYZKA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
