@@ -2,7 +2,11 @@
 
 - Número del equipo: 26
 - Nombre del equipo: Green Ladies
-- Nombre de todos miembros en su equipo:
+- Nombre de todos miembros en su equipo: 
+- Ana Jimena Vega
+- Kelly Susan Melo 
+- Paula Lino Laguna 
+- María Celeste Montivero
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
