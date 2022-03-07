@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
-- Nombre del equipo: 
+- Número del equipo: 26
+- Nombre del equipo: Green Ladies
 - Nombre de todos miembros en su equipo:
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
