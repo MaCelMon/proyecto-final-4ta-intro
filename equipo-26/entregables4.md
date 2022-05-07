@@ -1,6 +1,6 @@
 ## Etapa 4 del proyecto final
 
-- Numero del equipo:
+- Numero del equipo: 26
 - Nombre del equipo:
 - Nombre de todos los miembros en el equipo:
 - El título de su proyecto:
